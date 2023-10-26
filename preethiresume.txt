@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="preethi.css" />
+    <title>Resume</title>
+</head>
+
+<body>
+    <div id="resume">
+        
+        <h1>PREETHI P</h1>
+        <p>Cell: <a href=#>63------51</a></p>
+        <p>Email: <a href=#>abi24@gmail.com</a></p> 
+        <h1><fontcolor="black">Objective </font></h1>I am a reserved but ambitious young professional seeking a career that fits my professional
+            skills, personality, and murderous tendencies. My good birth, excellent education and phenomenal
+            mathematical faculty have allowed me to advance the prospects of several criminal enterprises.<br>
+        
+            <h1>Education</h1>
+            
+                <emsp><h2>Bharathiar University</h2></emsp>
+                <p><strong>Major:</strong> computer science<br />
+                    
+                </p>
+    
+            
+            
+                <h2>skills</h2>
+                <ul type="circle">
+
+                <li>leadership</li> 
+                    <li>Travel coordination</li>
+            </ul><br>
+                
+                <h2>Computer skills</h2>
+                <ul type="square">
+                    <li>Microsoft productivity software(Word,Excel)</li>
+                    <li>windows</li>
+                </ul>
+        <h3>Hobbies</h3>
+            <ul type="circle">
+                <li>Reading books</li>
+                <li>Listening music</li>
+            </ul>
+            <h1>PERSONAL PROFILE</h1>
+            <p><b>Date of birth</b>:18/08/2004</p>
+            <p><b>Gender</b>:Female</p>
+            <p><b>Language known</b>:Tamil,English(speak & write)</p>
+            </p>
+            </div>
+            <h2>DECLARATION</h2>
+            <p><i>I heare by declare that all the above mentioned particular are true to the best of my knowledge and belief.</i></p>
+        </body>
+        
+        </html>
